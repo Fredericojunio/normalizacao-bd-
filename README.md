@@ -1,6 +1,6 @@
 # Normalização de Base de Dados — Sistema de Gestão de Funcionários
 
-Trabalho Prático II — Tecnologia De BASE de DADOS — Licenciatura em Informática, Universidade Licungo.
+Trabalho Prático II — Programação de Design Web — Licenciatura em Informática, Universidade Licungo.
 
 Normalização de uma tabela não normalizada de funcionários (1FN → 4FN), culminando num modelo relacional bem desenhado.
 
@@ -22,3 +22,6 @@ README.md     → este ficheiro
 ## Resumo do esquema final
 
 7 entidades: `FUNCIONARIO`, `CARGO`, `FUNCAO`, `CIDADE`, `PROVINCIA`, `FILHO`, `TELEFONE`, todas relacionadas em cardinalidade 1:N.
+
+## Vídeo explicativo
+[Assista aqui](https://youtu.be/B3u1qsum2YQ)
